@@ -1,16 +1,38 @@
+# Hi, I'm Bipin Kumar 👋  
+### Aspiring Data Analyst | Data Enthusiast | Problem Solver
 
-<h1 align="center">Hi 👋, I'm Bipin Kumar</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+---
 
-- 🌱 I’m currently learning **data analyst**
+🔍 **About Me**  
+I am passionate about turning raw data into actionable insights to drive smarter business decisions. Skilled in data cleaning, visualization, and statistical analysis with a keen eye for detail and accuracy. Currently learning advanced analytics techniques and looking to contribute to impactful data projects.
 
-- 📫 How to reach me **bipinkumarr763132@gmail.com**
+---
 
-- ⚡ Fun fact **i am opened mind**
+### Skills
+- **Data Analysis Tools:** Excel, SQL, Python (Pandas, NumPy)  
+- **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
+- **Statistical Analysis:** Hypothesis Testing, Regression, A/B Testing  
+- **Data Wrangling:** Data cleaning, ETL processes  
+- **Others:** Jupyter Notebooks, Google Sheets, MS Office
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Projects
+- [Sales Data Analysis](https://github.com/bipinkumar/sales-data-analysis)  
+  Analyzed sales datasets to uncover trends and patterns using Python and Tableau.
+
+- [Customer Segmentation](https://github.com/bipinkumar/customer-segmentation)  
+  Implemented clustering algorithms to segment customers and optimize marketing strategies.
+
+- [COVID-19 Data Visualization](https://github.com/bipinkumar/covid19-data-viz)  
+  Created interactive dashboards tracking COVID-19 spread and vaccination data using Power BI.
+
+---
+
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/bipinkumar) | [Twitter](https://twitter.com/bipinkumar) | bipin.kumar@example.com
+
+---
+
+✨ Always eager to learn and grow in the data analytics field. Feel free to reach out for collaborations or opportunities!
+
