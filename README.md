@@ -32,4 +32,7 @@ I am passionate about turning raw data into actionable insights to drive smarter
 ---
 
 ✨ Always eager to learn and grow in the data analytics field. Feel free to reach out for collaborations or opportunities!
+---
 
+*“Data is the new oil, and I love being the refiner.”*  
+Open to internships, freelance projects, or full-time roles in data analytics. Let’s connect!
