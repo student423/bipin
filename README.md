@@ -21,7 +21,7 @@ I am passionate about turning raw data into actionable insights to drive smarter
 - **Data Analysis Tools:** Excel, SQL, Python (Pandas, NumPy)  
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
 - **Statistical Analysis:** Hypothesis Testing, Regression, 
-- **Data Wrangling:** Data cleaning, ETL processes  
+- **Data Wrangling:** Data cleaning, ETL processes, Exploratory Data Analysis(EDA), DAX
 - **Others:** Jupyter Notebooks, Google Sheets, MS Office
 
 ---
