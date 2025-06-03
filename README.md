@@ -27,7 +27,7 @@ I am passionate about turning raw data into actionable insights to drive smarter
 ---
 
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/bipinkumar)| bipinkumarr763132@gmail.com
+[LinkedIn](https://www.linkedin.com/in/bipin-kumar-581267359/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwLy8kTwYS7uxwc3JEB4C7g%3D%3D)| bipinkumarr763132@gmail.com
 
 ---
 
