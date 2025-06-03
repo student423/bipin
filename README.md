@@ -8,6 +8,15 @@ I am passionate about turning raw data into actionable insights to drive smarter
 
 ---
 
+### 💼 Experience
+- **Data Analytics Intern** @ *Deloitte*  
+  Worked on real-time dashboards, client reporting automation, and business intelligence tools to provide data-driven solutions.
+
+- **Data Analyst Intern** @ *Tata Consultancy Services (TCS)*  
+  Conducted data wrangling, visualization, and statistical analysis for internal reporting and performance insights.
+
+---
+
 ### Skills
 - **Data Analysis Tools:** Excel, SQL, Python (Pandas, NumPy)  
 - **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn  
